@@ -1,0 +1,6 @@
+# This gets the statistics for the last 7 days:
+days: 7
+
+# List all the links of interest:
+links:
+  - https://suva.page.link/testApptiva
