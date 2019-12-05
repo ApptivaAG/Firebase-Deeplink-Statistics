@@ -1,0 +1,5 @@
+*.class
+/build
+/.idea
+/.gradle
+/service-account.json
