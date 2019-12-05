@@ -33,3 +33,7 @@ Mac, Linux:
 ```shell script
 ./gradlew run
 ```
+
+## More information
+
+The API documentation from Google: https://firebase.google.com/docs/reference/dynamic-links/analytics
